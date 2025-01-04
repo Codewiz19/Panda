@@ -1,0 +1,7 @@
+tkinter 
+threading
+speech_recognition  
+pyttsx3
+webbrowser
+src.music  
+PIL
